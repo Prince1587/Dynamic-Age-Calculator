@@ -5,7 +5,7 @@ A beautiful, modern web application that calculates your exact age and provides 
 ![Age Calculator Preview](https://img.shields.io/badge/Status-Active-brightgreen) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 🌐 Live Demo
-🚀 https://dynamic-age-calculator.vercel.app/
+🚀 <a href="https://dynamic-age-calculator.vercel.app/" target="_blank">Try it live here!</a>
 
 Experience the Age Calculator in action - calculate your age and explore your life statistics instantly!
 

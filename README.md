@@ -139,9 +139,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-Prince Kumar - [your.email@example.com](mailto:ps1587882@gmail.com)
+Prince Kumar - [ps1587882@gmail.com]
 
-Project Link: [https://github.com/yourusername/age-calculator](https://github.com/Prince1587/Dynamic-Age-Calculator.git)
+Project Link: [https://github.com/Prince1587/Dynamic-Age-Calculator.git]
 
 ---
 
